@@ -1,7 +1,6 @@
 # productivity_tools
 
-A collection of small scripts and experiments that help automate everyday tasks and explore different approaches to productivity.  
-Each tool is designed as a lightweight demo — some use official APIs, while others explore browser automation with Selenium or other libraries.
+A collection of small scripts and experiments that help automate everyday tasks and explore different approaches to productivity. Each tool is designed as a lightweight demo — some use official APIs, while others explore browser automation with Selenium or other libraries.
 
 ⚠️ **Disclaimer**
 
